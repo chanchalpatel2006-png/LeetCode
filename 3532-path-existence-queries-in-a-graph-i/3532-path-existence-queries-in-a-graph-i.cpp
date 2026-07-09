@@ -7,7 +7,7 @@ public:
         component[0] = 0;
         for (int i = 1; i < n; i++) {
             component[i] = component[i - 1];
-            if (abs(nums[i] - nums[i - 1]) > maxDiff) {
+            if ((nums[i] - nums[i - 1] )> maxDiff) {
                 component[i]++;
             }
         }
