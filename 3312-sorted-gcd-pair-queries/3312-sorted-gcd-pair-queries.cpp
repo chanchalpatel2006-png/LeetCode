@@ -35,19 +35,19 @@ public:
         }
 
         for(int i=0;i<q;i++){
-            long long target=queries[i],temp=maxVal;
+            long long target=queries[i];
+            int temp=maxVal;
             int l=1,r=maxVal;
             while(l<r){
                 int mid=l+(r-l)/2;
                 if(gcdPairCount[mid]>target){
-                    temp=mid;
                     r=mid;
                 }
                 else{
                     l=mid+1;
                 }
             }
-            answer.push_back(temp);
+            answer.push_back(l);
         }
 
         return answer; 
