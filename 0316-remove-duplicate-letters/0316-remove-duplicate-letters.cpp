@@ -11,13 +11,10 @@ public:
         }
         for (int i = 1; i < n; i++) {
             if (!taken[s[i] - 'a']) {
-                while ((!result.empty()) && (result.back() > s[i])) {
-                    if (lastIdx[result.back() - 'a'] > i) {
-                        taken[result.back() - 'a'] = false;
-                        result.pop_back();
-                    } else {
-                        break;
-                    }
+                while ((!result.empty()) && (result.back() > s[i]) &&
+                       lastIdx[result.back() - 'a'] > i) {
+                    taken[result.back() - 'a'] = false;
+                    result.pop_back();
                 }
                 result += s[i];
                 taken[s[i] - 'a'] = true;
