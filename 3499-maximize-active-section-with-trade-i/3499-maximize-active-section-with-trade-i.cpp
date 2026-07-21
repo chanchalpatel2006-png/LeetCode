@@ -12,12 +12,12 @@ public:
             if(s[i]=='0'){
                 zero++;
             }
-            else if(s[i]='1' && zero>0){
+            else if(s[i]=='1' && zero>0){
                 Z.push_back(zero);
                 zero=0;
             }
         }
-        if(s[n-1]=='0')  Z.push_back(zero);
+        if(zero>0)  Z.push_back(zero);
         int mx=0;
         if(Z.size()<2) return active;
         for(int i=0;i<Z.size()-1;i++){
