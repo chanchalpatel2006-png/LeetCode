@@ -1,39 +1,24 @@
 class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
-        const int B = 2048;
+        unordered_set<int> vals(nums.begin(), nums.end());
+        unordered_set<int> xor2;
+        unordered_set<int> xor3;
 
-        bool seen[B] = {};
-        bool two[B] = {};
-        bool three[B] = {};
-
-        vector<int> vals;
-        vector<int> pairs;
-
-        for (int x : nums) {
-            if (!seen[x]) {
-                seen[x] = true;
-                vals.push_back(x);
-            }
-        }
-
+        // Unique XORs of two values
         for (int a : vals) {
             for (int b : vals) {
-                int x = a ^ b;
-
-                if (!two[x]) {
-                    two[x] = true;
-                    pairs.push_back(x);
-                }
+                xor2.insert(a ^ b);
             }
         }
 
+        // Unique XORs of three values
         for (int a : vals) {
-            for (int x : pairs) {
-                three[a ^ x] = true;
+            for (int b : xor2) {
+                xor3.insert(a ^ b);
             }
         }
 
-        return count(three, three + B, true);
+        return xor3.size();
     }
 };
