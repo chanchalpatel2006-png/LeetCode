@@ -8,6 +8,7 @@ public:
         bool three[B] = {};
 
         vector<int> vals;
+        vector<int> pairs;
 
         for (int x : nums) {
             if (!seen[x]) {
@@ -16,19 +17,20 @@ public:
             }
         }
 
-        // All possible XORs of two values
         for (int a : vals) {
             for (int b : vals) {
-                two[a ^ b] = true;
+                int x = a ^ b;
+
+                if (!two[x]) {
+                    two[x] = true;
+                    pairs.push_back(x);
+                }
             }
         }
 
-        // All possible XORs of three values
         for (int a : vals) {
-            for (int x = 0; x < B; x++) {
-                if (two[x]) {
-                    three[a ^ x] = true;
-                }
+            for (int x : pairs) {
+                three[a ^ x] = true;
             }
         }
 
