@@ -3,32 +3,35 @@ public:
     int uniqueXorTriplets(vector<int>& nums) {
         const int B = 2048;
 
-        vector<bool> one(B, false);
-        for (int x : nums)
-            one[x] = true;
+        bool seen[B] = {};
+        bool two[B] = {};
+        bool three[B] = {};
 
-        vector<bool> two(B, false);
+        vector<int> vals;
 
-        for (int a = 0; a < B; a++) {
-            if (!one[a]) continue;
-
-            for (int b = 0; b < B; b++) {
-                if (one[b])
-                    two[a ^ b] = true;
+        for (int x : nums) {
+            if (!seen[x]) {
+                seen[x] = true;
+                vals.push_back(x);
             }
         }
 
-        vector<bool> three(B, false);
-
-        for (int x = 0; x < B; x++) {
-            if (!one[x]) continue;
-
-            for (int y = 0; y < B; y++) {
-                if (two[y])
-                    three[x ^ y] = true;
+        // All possible XORs of two values
+        for (int a : vals) {
+            for (int b : vals) {
+                two[a ^ b] = true;
             }
         }
 
-        return count(three.begin(), three.end(), true);
+        // All possible XORs of three values
+        for (int a : vals) {
+            for (int x = 0; x < B; x++) {
+                if (two[x]) {
+                    three[a ^ x] = true;
+                }
+            }
+        }
+
+        return count(three, three + B, true);
     }
 };
