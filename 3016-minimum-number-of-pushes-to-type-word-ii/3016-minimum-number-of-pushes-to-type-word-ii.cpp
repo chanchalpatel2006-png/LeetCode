@@ -8,17 +8,9 @@ public:
             freq[c-'a']++;
         }
         sort(freq.rbegin(),freq.rend());
-        for(i=0;i<8;i++){
-            ans+=(freq[i])*1;
-        }
-        for(i=8;i<16;i++){
-            ans+=(freq[i])*2;
-        }
-        for(i=16;i<24;i++){
-            ans+=(freq[i])*3;
-        }
-        for(i=24;i<26;i++){
-            ans+=(freq[i])*4;
+        for (int i = 0; i < 26; i++) {
+            if(!freq[i]) break;
+            ans += freq[i] * (i / 8 + 1);
         }
         return ans;
 
