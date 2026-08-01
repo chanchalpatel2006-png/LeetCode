@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -223,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
