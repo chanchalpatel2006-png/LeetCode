@@ -5,14 +5,10 @@ public:
         vector<int> missing;
         sort(nums.begin(), nums.end());
         for (int i = 1; i < n; i++) {
-            int diff = nums[i] - (nums[i - 1]);
-            if (diff > 1) {
-                while (--diff) {
-                    missing.push_back(nums[i - 1] + diff);
-                }
+            for(int j=nums[i-1]+1;j<nums[i];j++) {
+                missing.push_back(j);
             }
         }
-        sort(missing.begin(),missing.end());
         return missing;
     }
 };
