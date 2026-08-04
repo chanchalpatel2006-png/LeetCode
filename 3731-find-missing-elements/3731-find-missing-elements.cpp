@@ -6,9 +6,10 @@ public:
         sort(nums.begin(), nums.end());
         for (int i = 1; i < n; i++) {
             for(int j=nums[i-1]+1;j<nums[i];j++) {
-                missing.push_back(j);
+                nums.push_back(j);
             }
         }
-        return missing;
+        nums.erase(nums.begin(), nums.begin() + n);
+        return nums;
     }
 };
