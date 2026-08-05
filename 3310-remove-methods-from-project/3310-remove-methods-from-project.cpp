@@ -26,6 +26,7 @@ public:
         vector<int> result;
         bool cannotRemove=false;
         for(int i=0;i<n;i++){
+  
             if(sus[i] && inDeg[i]>0){
                 cannotRemove=true;
                 break;
