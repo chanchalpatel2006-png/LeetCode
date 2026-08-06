@@ -1,15 +1,19 @@
 class Solution {
 public:
     int smallestNumber(int n, int t) {
-        int r,d;
-        for(int i=n;i<n+10;i++){
-            r=i%10;
-            if(!r) return i;
-            d=(i/10==0)?1:i/10;
-            if((r*d)%t==0){
-                return i;
-            } 
+        for (int num = n; num < n + 10; num++) {
+            int x = num;
+            int prod = 1;
+
+            while (x > 0) {
+                prod *= x % 10;
+                x /= 10;
+            }
+
+            if (prod % t == 0)
+                return num;
         }
-        return 0; 
+
+        return -1;
     }
 };
