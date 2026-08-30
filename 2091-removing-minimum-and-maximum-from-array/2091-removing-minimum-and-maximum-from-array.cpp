@@ -15,18 +15,10 @@ public:
         int b=min(minIdx,maxIdx);
         b=n-b;
         int c=0;
-        if(minIdx<=n/2){
-            c=c+minIdx+1;
+        if(minIdx>maxIdx){
+            swap(minIdx,maxIdx);
         }
-        else{
-            c=c+n-minIdx;
-        }
-        if(maxIdx<=n/2){
-            c+=maxIdx+1;
-        }
-        else{
-            c+=n-maxIdx;
-        }
+        c=n-maxIdx+minIdx+1;
         return min({a,b,c});
         
     }
