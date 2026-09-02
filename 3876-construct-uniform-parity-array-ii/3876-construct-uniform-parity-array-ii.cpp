@@ -2,7 +2,7 @@ class Solution {
 public:
     bool uniformArray(vector<int>& nums) {
         int n=nums.size();
-        int smallestOdd=INT_MAX;
+        int smallestOdd=1e9+1;
         for(int x:nums){
             if((x&1)==1){
                 smallestOdd=min(smallestOdd,x);
