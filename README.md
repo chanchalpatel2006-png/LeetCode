@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0068-text-justification) |
 | [0316-remove-duplicate-letters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
