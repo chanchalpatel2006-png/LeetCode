@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0068-text-justification) |
+| [0242-valid-anagram](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1386-cinema-seat-allocation) |
