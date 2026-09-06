@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0486-predict-the-winner) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
