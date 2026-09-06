@@ -4,7 +4,7 @@ public:
         vector<vector<int>> result;
         sort(intervals.begin(),intervals.end());
         int l=intervals[0][0],r=intervals[0][1];
-        for(auto interval:intervals){
+        for(auto &interval:intervals){
             if(interval[0]>r){
                 result.push_back({l,r});
                 l=interval[0];
