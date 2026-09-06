@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -373,4 +377,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
