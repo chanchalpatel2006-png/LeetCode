@@ -2,34 +2,16 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n=nums.size();
-        int zero=0;
-        int maxProd=1;
-        for(int x:nums){
-            if(x==0){
-                zero++;
-            }
-            else{
-                maxProd*=x;
-            }
+        vector<int> result(n,1);
+        vector<int> suffix(n,1);
+        for(int i=1;i<n;i++){
+            result[i]=nums[i-1]*result[i-1];
         }
-        vector<int> result(n,0);
-        if(zero>1){
-            return result;
+        for(int i=n-2;i>=0;i--){
+            suffix[i]*=suffix[i+1]*nums[i+1];
         }
-        else if(zero==1){
-            for(int i=0;i<n;i++){
-                if(nums[i]==0){
-                    result[i]=maxProd;
-                }
-                else{
-                    result[i]=0;
-                }
-            }
-        }
-        else{
-            for(int i=0;i<n;i++){
-                result[i]=maxProd/nums[i];
-            }
+        for(int i=0;i<n;i++){
+            result[i]*=suffix[i];
         }
         return result;
     }
