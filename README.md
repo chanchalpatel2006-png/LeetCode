@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1386-cinema-seat-allocation) |
