@@ -2,13 +2,15 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         if(s.size()!=t.size()) return false; 
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        
+        vector<int> sFreq(26,0);
+        vector<int> tFreq(26,0);
         for(int i=0;i<s.size();i++){
-            if(s[i]!=t[i]) return false;
+            sFreq[s[i]-'a']++;
+            tFreq[t[i]-'a']++;
+        }
+        for(int i=0;i<26;i++){
+            if(sFreq[i]!=tFreq[i]) return false;
         }
         return true;
-        
     }
 };
