@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0877-stone-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0733-flood-fill) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1140-stone-game-ii) |
