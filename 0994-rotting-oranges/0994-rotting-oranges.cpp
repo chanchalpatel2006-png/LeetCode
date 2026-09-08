@@ -1,32 +1,5 @@
 class Solution {
 public:
-    int bfs(int row, int col, vector<vector<int>>& vis,
-            vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size(), minute = 0, min = 0;
-        queue<pair<int, int>> q;
-        q.push({row, col});
-        vis[row][col] = 1;
-        vector<pair<int, int>> neighbours = {{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
-        while (!q.empty()) {
-            int r = q.front().first;
-            int c = q.front().second;
-            q.pop();
-            min = 0;
-            for (auto [dRow, dCol] : neighbours) {
-                int nrow = dRow + r;
-                int ncol = dCol + c;
-                if (nrow >= 0 && ncol >= 0 && nrow < m && ncol < n &&
-                    grid[nrow][ncol] == 1 && !vis[nrow][ncol]) {
-                    vis[nrow][ncol] = 1;
-                    grid[nrow][ncol] = 2;
-                    q.push({nrow, ncol});
-                    min = 1;
-                }
-            }
-            minute += min;
-        }
-        return minute;
-    }
     int orangesRotting(vector<vector<int>>& grid) {
         int m = grid.size(), n = grid[0].size(), minute = 0;
         queue<pair<pair<int, int>,int>> q;
@@ -35,6 +8,7 @@ public:
         for (int row = 0; row < m; row++) {
             for (int col = 0; col < n; col++) {
                 if (!vis[row][col] && grid[row][col] == 2) {
+                    vis[row][col]=1;
                     q.push({{row, col}, 0});
                 }
             }
