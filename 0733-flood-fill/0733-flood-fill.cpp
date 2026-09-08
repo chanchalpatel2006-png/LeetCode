@@ -8,15 +8,15 @@ public:
         queue<pair<int,int>> q;
         q.push({sr,sc});
         
-        vector<vector<int>>neighbours={{0,1},{0,-1},{1,0},{-1,0}};
+        vector<pair<int,int>>neighbours={{0,1},{0,-1},{1,0},{-1,0}};
         while(!q.empty()){
             int row=q.front().first;
             int col=q.front().second;
             q.pop();
             image[row][col]=color;
-            for(auto neighbour:neighbours){
-                int nrow=neighbour[0]+row;
-                int ncol=neighbour[1]+col;
+            for(auto [deltaRow,deltaCol]:neighbours){
+                int nrow=deltaRow+row;
+                int ncol=deltaCol+col;
                 if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && image[nrow][ncol]==startColor){
                     image[nrow][ncol]=color;
                     q.push({nrow,ncol});
