@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0130-surrounded-regions](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0189-rotate-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0547-number-of-provinces) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0733-flood-fill) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
