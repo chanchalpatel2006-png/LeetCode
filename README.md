@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1563-stone-game-v) |
+| [1765-map-of-highest-peak](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1765-map-of-highest-peak](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
