@@ -1,38 +1,38 @@
 class Solution {
 public:
-    bool cycleDetected(int node,vector<vector<int>>& graph,vector<int>&vis,vector<int>&safe){
-        vis[node]=1;
-        safe[node]=0;
-        for(auto it:graph[node]){
-            if(!vis[it]){
-                if(cycleDetected(it,graph,vis,safe)){
-                    return true;
-                }
-            }
-            else if(!safe[it]) {
-                return true;
-            }
-        }
-        safe[node]=1;
-        return false;
-    }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int V=graph.size();
+        vector<vector<int>>adj(V);
+        for(int i=0;i<V;i++){
+            for(auto it:graph[i]){
+                adj[it].push_back(i);
+            }
+        }
+        vector<int> indegree(V,0);
+        queue<int> q;
         vector<int> safe(V,1);
-        vector<int> vis(V,0);
         for(int i=0;i<V;i++){
-            if(!vis[i]){
-                cycleDetected(i,graph,vis,safe);
+            for(auto it:adj[i]){
+                indegree[it]++;
             }
         }
-        vector<int> result;
         for(int i=0;i<V;i++){
-            if(safe[i]){
-                result.push_back(i);
+            if(!indegree[i]){
+                q.push(i);
             }
         }
-        return result;
+        vector<int> topo;
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+            topo.push_back(node);
+            for(auto it:adj[node]){
+                indegree[it]--;
+                if(!indegree[it]) q.push(it);
+            }
 
-        
+        }
+        sort(topo.begin(),topo.end());
+        return topo;
     }
 };
