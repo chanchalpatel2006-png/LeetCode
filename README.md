@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Enumeration
 |  |
 | ------- |
