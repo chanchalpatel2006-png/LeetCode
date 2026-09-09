@@ -7,13 +7,9 @@ public:
         int ans=0;
         if(largestSum<s) return -1;
         while(s>0){
-            for(int i=9;i>0;i--){
-                if(i<=s){
-                    ans=ans*10+i;
-                    s-=i;
-                    break;
-                }
-            }
+            int digit=min(9,s);
+            ans=ans*10+digit;
+            s=s-digit;
         }
         while(ans*10<largest){
             ans=ans*10;
