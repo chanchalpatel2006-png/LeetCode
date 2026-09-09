@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1765-map-of-highest-peak) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [3620-network-recovery-pathways](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -467,4 +471,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0014-longest-common-prefix) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
