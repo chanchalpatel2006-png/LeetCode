@@ -25,9 +25,7 @@ public:
         vector<int> vis(V,0);
         for(int i=0;i<V;i++){
             if(!vis[i]){
-                if(cycleDetected(i,graph,vis,safe)){
-
-                }
+                cycleDetected(i,graph,vis,safe);
             }
         }
         vector<int> result;
