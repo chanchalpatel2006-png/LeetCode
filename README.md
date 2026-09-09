@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -374,11 +376,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
