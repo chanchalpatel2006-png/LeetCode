@@ -3,20 +3,17 @@ public:
     bool cycleDetected(int node,vector<vector<int>>& graph,vector<int>&vis,vector<int>&safe){
         vis[node]=1;
         safe[node]=0;
-        int isSafe=1;
         for(auto it:graph[node]){
             if(!vis[it]){
                 if(cycleDetected(it,graph,vis,safe)){
-                    isSafe=0;
                     return true;
                 }
             }
             else if(!safe[it]) {
-                isSafe=0;
                 return true;
             }
         }
-        safe[node]=isSafe;
+        safe[node]=1;
         return false;
     }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
