@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0207-course-schedule) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0525-contiguous-array) |
@@ -509,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0836-rectangle-overlap) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
