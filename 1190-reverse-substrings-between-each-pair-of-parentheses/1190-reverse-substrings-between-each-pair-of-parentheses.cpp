@@ -1,48 +1,39 @@
 class Solution {
 public:
-    pair<string,int> reverseString(string s,int i){
-        string ans;
-        int n=s.size();
-        stack<string> st;
-        while(i<n){
-            if(s[i]=='('){
-                auto[r,j]=reverseString(s,i+1);
-                reverse(r.begin(),r.end());
-                st.push(r);
-                i=j;
+    string reverseParentheses(string s) {
+        int n = s.size();
+        vector<int> pair(n);
+        stack<int> st;
+
+        for(int i = 0; i < n; i++) {
+            if(s[i] == '(') {
+                st.push(i);
             }
-            else if(s[i]==')'){
-                i++;
-                break;
+            else if(s[i] == ')') {
+                int j = st.top();
+                st.pop();
+
+                pair[i] = j;
+                pair[j] = i;
             }
-            else{
-                st.push(string(1,s[i]));
-                i++;
-            }
-        }
-        while(!st.empty()){
-            ans+=st.top();
-            st.pop();
         }
 
-        return {ans,i};
-    }
-    string reverseParentheses(string s) {
-        int n=s.size();
         string ans;
-        int i=0;
-        while(i<n){
-            if(s[i]=='('){
-                auto[r,j]=reverseString(s,i+1);
-                ans+=r;
-                i=j;
+        int i = 0;
+        int direction = 1;
+
+        while(i < n) {
+            if(s[i] == '(' || s[i] == ')') {
+                i = pair[i];
+                direction = -direction;
             }
-            else{
+            else {
                 ans.push_back(s[i]);
-                i++;
             }
+
+            i += direction;
         }
-        
+
         return ans;
     }
 };
