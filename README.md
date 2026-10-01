@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
