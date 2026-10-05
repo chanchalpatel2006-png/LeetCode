@@ -1,7 +1,6 @@
 class Solution {
 public:
-    int n;
-    int solve(int i, int j, const vector<int> count) {
+    int solve(int i, int j, const vector<int>& count) {
         if (i+1==j){
             return 1;
         }
@@ -22,7 +21,7 @@ public:
         return A;
     }
     int scoreOfParentheses(string s) {
-        n = s.size();
+        int n = s.size();
         vector<int> count(n);
         int openCount = 0;
         for (int i = 0; i < n; i++) {
