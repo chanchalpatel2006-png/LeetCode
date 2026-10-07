@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0856-score-of-parentheses](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/chanchalpatel2006-png/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
