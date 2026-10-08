@@ -3,9 +3,8 @@ public:
     string removeOuterParentheses(string s) {
         int n=s.size();
         stack<char> st;
-        st.push(s[0]);
         string ans;
-        int i=1;
+        int i=0;
         while(i<n){
             if(st.empty()){
                     st.push(s[i]);
