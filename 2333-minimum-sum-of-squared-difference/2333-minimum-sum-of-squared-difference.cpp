@@ -12,7 +12,7 @@ public:
             diffCount[x]++;
         }
         long long ans=0;
-        for(int j=1e5;j>0;j--){
+        for(int j=1e5;j>0 && k>0;j--){
             if (diffCount[j]==0) continue;
             if(diffCount[j]<=k){
                 k=k-diffCount[j];
@@ -22,11 +22,9 @@ public:
                 diffCount[j]-=k;
                 diffCount[j-1]+=k;
                 k=0;
-                break;
             }
         }
         for(long long x=0;x<=1e5;x++){
-            if(diffCount[x]!=0)
             ans+=(diffCount[x]*x*x);
         }
         return ans;
